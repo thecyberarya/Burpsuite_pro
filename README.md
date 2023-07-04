@@ -3,4 +3,4 @@
 [Burpsuite pro link]([https://link-url-here.org](https://app.mediafire.com/81o0g6fmrc8dp)https://app.mediafire.com/81o0g6fmrc8dp)
 
 
-[Burpsuite pro link]([[https://www.youtube.com/embed/iZz3c1q-ar4)
+[Youtube video link]([[https://www.youtube.com/embed/iZz3c1q-ar4)
